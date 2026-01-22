@@ -1,0 +1,17 @@
+Prithee
+----------------
++incorrectGuesses:int
++correctGuesses:int
++sonnet:String
+-rand:Random
+-scan:Scanner
+-hiddenIndex:int
+-allWords:String[]
+-----------------
++Prithee()
++splitSonnet()
++generateHidden()
++printProblem()
++cleanWord()
++checkGuess()
++runPrithee()
